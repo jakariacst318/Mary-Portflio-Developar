@@ -89,3 +89,58 @@ nav li {
     margin-left: 20px;
 }
 /*  header end */
+
+.info-description{
+    margin: 0px 200px ;
+    text-align: center;
+}
+.about{
+    padding-top: 230px ;
+    text-align: center;
+}
+.about-title{
+    padding:30px 0px;
+    color: #757575;
+}
+.info-details{
+    display: flex;
+    gap: 50px;
+    padding-left: 10px;
+}
+.info p{
+    color: #757575;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+.info h3{
+    font-size: 25px;
+}
+/* the end  */
+.experience{
+    margin: 0 180px;
+    padding-top: 130px;
+}
+.experience h2{
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+.experience p{
+    color: #757575;
+    padding-bottom: 50px;
+}
+/* end */
+.skill{
+    display: flex;
+    margin: 40px  130px 0px 130px;
+    gap: 24px;
+}
+.skill-info h3{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+.skill-info p{
+    color: #757575;
+    font-size: 15px;
+}
