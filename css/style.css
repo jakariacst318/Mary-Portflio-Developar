@@ -75,8 +75,8 @@ nav li {
     padding-bottom: 30px;
 
 }
- .mary img{
-}
+
+.mary img {}
 
 .btn-contact {
     color: #FD6E0A;
@@ -88,59 +88,134 @@ nav li {
     border-radius: 5px;
     margin-left: 20px;
 }
+
 /*  header end */
 
-.info-description{
-    margin: 0px 200px ;
+.info-description {
+    margin: 0px 200px;
     text-align: center;
 }
-.about{
-    padding-top: 230px ;
+
+.about {
+    padding-top: 230px;
     text-align: center;
 }
-.about-title{
-    padding:30px 0px;
+
+.about-title {
+    padding: 30px 0px;
     color: #757575;
 }
-.info-details{
+
+.info-details {
     display: flex;
     gap: 50px;
     padding-left: 10px;
 }
-.info p{
+
+.info p {
     color: #757575;
     padding-bottom: 5px;
     font-size: 20px;
 }
-.info h3{
+
+.info h3 {
     font-size: 25px;
 }
+
 /* the end  */
-.experience{
+.skill-description {
     margin: 0 180px;
     padding-top: 130px;
 }
-.experience h2{
+
+.skill-description h2 {
     text-align: center;
     padding-bottom: 30px;
-    
+
 }
-.experience p{
+
+.skill-description p {
     color: #757575;
     padding-bottom: 50px;
 }
+
 /* end */
-.skill{
+.skill {
     display: flex;
-    margin: 40px  130px 0px 130px;
+    margin: 40px 130px 0px 130px;
     gap: 24px;
 }
-.skill-info h3{
+
+.skill-info h3 {
     padding-top: 30px;
     padding-bottom: 20px;
     font-size: 30px;
 }
-.skill-info p{
+
+.skill-info p {
     color: #757575;
     font-size: 15px;
 }
+
+/* end */
+.resume-title {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 130px;
+    padding-bottom: 100px;
+}
+
+.resume {
+    display: flex;
+    padding: 0 130px;
+    gap: 60px;
+}
+
+.education h2 {
+    padding-top: 120px;
+    padding-bottom: 30px;
+    font-size: 25px;
+}
+
+.experience h2 {
+    padding-top: 120px;
+    padding-bottom: 30px;
+    font-size: 25px;
+}
+
+.education-title h3 {
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.education-title h4{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    color: #757575;
+}
+.education-title p{
+    color: #757575;
+    padding-bottom: 20px;
+}
+
+
+
+.experience-title h3 {
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.experience-title h4{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    color: #757575;
+}
+.experience-title p{
+    color: #757575;
+    padding-bottom: 20px;
+}
+.cv-btn{
+    text-align: center;
+    padding-top: 50px;
+}
+/* end Experience */
