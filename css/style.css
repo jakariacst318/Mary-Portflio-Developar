@@ -217,5 +217,39 @@ nav li {
 .cv-btn{
     text-align: center;
     padding-top: 50px;
+    padding-bottom: 240px;
 }
 /* end Experience */
+.footer{
+    display: flex;
+    padding: 0 150px;
+    gap: 125px;
+}
+
+.contact p{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    color: #757575;
+}
+.contact img{
+    margin-right:  20px;
+}
+.chat-box input{
+    margin-top: 20px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: #757575 2px solid;
+}
+.btn-submit{
+    padding: 20px 0px;
+}
+.developar{
+    text-align: center;
+    padding: 80px 0px;
+    font-size: 12px;
+    color: #757575;
+}
+.developar-sub{
+    color:#9600FF;
+}
